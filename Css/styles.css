@@ -1,0 +1,30 @@
+/*This will be a styling file for the recipies webpages.*/
+
+/* For index.html file */
+* {
+    border: 2px seagreen solid ;
+}
+
+h1, h4 , h2, ul{
+    color : blueviolet;
+    font-size: 80px ; 
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+li {
+    color : rgb(115, 90, 138);
+    font-size: 80px ; 
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.list-item-main {
+    color: crimson;
+    font-size: 60px;
+    font-weight: 500;
+    font-style: none ;
+    font-family: "Roboto Mono Thin";
+    text-align: center;
+
+}
